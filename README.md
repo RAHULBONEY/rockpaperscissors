@@ -1,1 +1,1 @@
-this repo is created to add my creations while while new tech stacks .
+this repo is created to add my creations while learning new tech stacks .
